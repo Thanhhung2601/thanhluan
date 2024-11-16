@@ -45,7 +45,9 @@
           },
 
           "links": [
-            { "href": "/react-portfolio-template/blog/time-series-imputation" }
+            {
+              "href": "https://thanhluan7702.github.io/luannt/research/optimizeCLV_with_unsupervisedlearning.html"
+            }
           ],
 
           "media": {
@@ -73,7 +75,11 @@
             "faColors": { "bg": null, "fill": null }
           },
 
-          "links": [{ "href": "/react-portfolio-template/blog/optimize-clv" }],
+          "links": [
+            {
+              "href": "https://thanhluan7702.github.io/luannt/research/fuzzy_clustering.html"
+            }
+          ],
 
           "media": {
             "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI",
@@ -107,7 +113,9 @@
           },
 
           "links": [
-            { "href": "/react-portfolio-template/blog/fuzzy-clustering" }
+            {
+              "href": "https://thanhluan7702.github.io/luannt/research/time_series_imputation.html"
+            }
           ],
 
           "media": {
